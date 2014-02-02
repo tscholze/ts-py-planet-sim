@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/PlanetSim/!svn/ver/113/PlanetSim/src/PlanetSim/dev
+END
+EarthSunsystemCalc.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/PlanetSim/!svn/ver/112/PlanetSim/src/PlanetSim/dev/EarthSunsystemCalc.py
+END
+AstroCalc.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/PlanetSim/!svn/ver/84/PlanetSim/src/PlanetSim/dev/AstroCalc.py
+END
+planetSim.ui
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/PlanetSim/!svn/ver/111/PlanetSim/src/PlanetSim/dev/planetSim.ui
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/PlanetSim/!svn/ver/102/PlanetSim/src/PlanetSim/dev/__init__.py
+END
+QVTKWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/PlanetSim/!svn/ver/87/PlanetSim/src/PlanetSim/dev/QVTKWidget.py
+END
+planetSim.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/PlanetSim/!svn/ver/113/PlanetSim/src/PlanetSim/dev/planetSim.py
+END
+RandomSunsystemCalc.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/PlanetSim/!svn/ver/114/PlanetSim/src/PlanetSim/dev/RandomSunsystemCalc.py
+END
+AstroCalcPlanetClass.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/PlanetSim/!svn/ver/84/PlanetSim/src/PlanetSim/dev/AstroCalcPlanetClass.py
+END
+MovePlanet.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/PlanetSim/!svn/ver/114/PlanetSim/src/PlanetSim/dev/MovePlanet.py
+END
+__main__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/PlanetSim/!svn/ver/114/PlanetSim/src/PlanetSim/dev/__main__.py
+END
+Planet.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/PlanetSim/!svn/ver/85/PlanetSim/src/PlanetSim/dev/Planet.py
+END
