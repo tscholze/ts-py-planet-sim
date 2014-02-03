@@ -120,7 +120,7 @@ class PlanetSimulation(QtGui.QDialog):
             
             sphere.SetRadius(scaled_radius)
             mapper.SetInput(sphere.GetOutput())
-            graphic_name = os.path.join(os.path.dirname(__file__))+"/../textures/"+planet.get_name()+".jpg"
+            graphic_name = "../textures/"+planet.get_name()+".jpg"
             graphic_reader = vtk.vtkJPEGReader()
             graphic_reader.SetFileName(graphic_name)
             graphic_texture = vtk.vtkTexture()
