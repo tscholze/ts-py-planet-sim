@@ -6,10 +6,10 @@ Thanks to F.A. who was my coding buddy during the third semester programming cla
 
 ![Screenshot](https://github.com/tscholze/ts-py-planet-sim/blob/master/doc/v1.png?raw=true "Screenshot")
 
-####Tip
+## Tip
 
 Looks great on Qt based environments like KDE.
 
-####Licence
+## Licence
 
 MIT. See included licence file for further information.
